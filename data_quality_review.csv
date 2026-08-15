@@ -1,0 +1,9 @@
+text,given_label,correct_label,quality_status,issue_type,reviewer_comment
+"I love this product.",Positive,Positive,Correct,None,"The label correctly represents the positive sentiment."
+"The service was terrible.",Positive,Negative,Incorrect,Wrong Label,"The text expresses dissatisfaction, so the correct label is Negative."
+"The package arrived yesterday.",Neutral,Neutral,Correct,None,"The statement is factual and does not express sentiment."
+"This is the best service I have ever used!",Negative,Positive,Incorrect,Wrong Label,"The text clearly expresses strong positive sentiment."
+"I am not happy with the product.",Negative,Negative,Correct,None,"The text expresses dissatisfaction."
+"The order contains three items.",Positive,Neutral,Incorrect,Wrong Label,"The statement is factual and does not express positive sentiment."
+"I really enjoyed my experience.",Positive,Positive,Correct,None,"The text expresses a positive opinion."
+"The product stopped working.",Neutral,Negative,Needs Review,Ambiguous,"The statement may imply dissatisfaction, so additional context may be useful."
