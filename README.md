@@ -60,6 +60,29 @@ File: `linguistic_annotation.csv`
 - Code-Switching Identification
 - Annotation Quality & Consistency
 
+## 📊 Portfolio Projects
+
+| Project | Skill Demonstrated |
+|---|---|
+| Sentiment Annotation | Text labeling and sentiment classification |
+| AI Response Evaluation | AI output quality evaluation |
+| Text Classification | Intent classification |
+| Linguistic Annotation | Multilingual and code-switching annotation |
+| Scored AI Evaluation | Structured AI response scoring |
+| Data Quality Review | Annotation quality checking |
+
+## 🔍 Evaluation Approach
+
+My evaluation approach focuses on:
+
+- Accuracy
+- Relevance
+- Completeness
+- Clarity
+- Instruction following
+- Consistency
+- Attention to detail
+
 ## 🎯 Objective
 
 The objective of this portfolio is to demonstrate my ability to follow annotation guidelines, evaluate AI-generated content, classify data accurately, and maintain consistency and attention to detail.
