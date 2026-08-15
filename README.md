@@ -88,3 +88,7 @@ My evaluation approach focuses on:
 The objective of this portfolio is to demonstrate my ability to follow annotation guidelines, evaluate AI-generated content, classify data accurately, and maintain consistency and attention to detail.
 
 > All datasets in this repository are self-created practice examples and do not contain confidential client or proprietary data.
+
+## 🔬 Current Focus
+
+Currently developing practice projects focused on AI response evaluation, annotation quality, and linguistic data analysis.
