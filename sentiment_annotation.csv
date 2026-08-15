@@ -1,0 +1,10 @@
+text,sentiment
+"I love this product.",Positive
+"The service was terrible.",Negative
+"The package arrived today.",Neutral
+"This application is very easy to use.",Positive
+"I am disappointed with the quality.",Negative
+"The delivery was completed yesterday.",Neutral
+"Excellent experience, I would recommend it.",Positive
+"The product stopped working after one day.",Negative
+"The order contains two items.",Neutral
