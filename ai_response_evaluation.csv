@@ -1,0 +1,6 @@
+user_prompt,response_a,response_b,preferred_response,reason
+"What is the capital of France?","Paris is the capital of France.","London is the capital of France.","A","Response A is factually correct."
+"Explain photosynthesis in simple terms.","Plants use sunlight, water, and carbon dioxide to make food and release oxygen.","Photosynthesis is when plants eat sunlight.","A","Response A is accurate and clearly explains the concept."
+"Write a professional email requesting leave.","Dear Manager, I would like to request leave for two days due to a personal commitment. Thank you for your consideration.","Hey, I need two days off. Bye.","A","Response A is professional and appropriate for the requested task."
+"What is 10 + 5?","10 + 5 = 15.","10 + 5 = 20.","A","Response A provides the correct answer."
+"Give me three benefits of exercise.","Exercise can improve physical fitness, support heart health, and improve mood.","Exercise is useful.","A","Response A is more complete and follows the instruction."
