@@ -1,0 +1,11 @@
+text,intent
+"I want to cancel my order.",Order Cancellation
+"Where is my package?",Order Tracking
+"I forgot my password.",Password Reset
+"I was charged twice for the same order.",Duplicate Payment
+"How can I update my email address?",Account Update
+"I want to return the product.",Product Return
+"My payment was declined.",Payment Issue
+"How do I create an account?",Account Registration
+"Can you tell me the delivery date?",Delivery Information
+"I received a damaged product.",Damaged Product
