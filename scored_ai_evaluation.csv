@@ -1,0 +1,6 @@
+user_prompt,ai_response,correctness_score,relevance_score,completeness_score,clarity_score,instruction_following_score,overall_score,evaluator_comment
+"What is the capital of France?","The capital of France is Paris.",5,5,5,5,5,5,"The response is accurate, relevant, complete, clear, and follows the request."
+"What is 10 multiplied by 5?","10 multiplied by 5 is 50.",5,5,5,5,5,5,"The answer is correct and directly addresses the question."
+"Name two benefits of exercise.","Exercise is good for you.",3,3,2,4,2,3,"The response is generally relevant but does not provide the requested two benefits."
+"Explain photosynthesis in one sentence.","Plants use sunlight, water, and carbon dioxide to produce food and release oxygen.",5,5,5,5,5,5,"The response is accurate and follows the one-sentence instruction."
+"What is the largest planet in our solar system?","Earth is the largest planet.",1,5,1,5,5,2,"The response is clear and relevant but contains a major factual error."
